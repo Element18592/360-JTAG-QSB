@@ -1,4 +1,4 @@
-# 360-JTAG-QSB
+# 360 JTAG QSB
 This is a very simple JTAG board so there aren’t any reference designators on it. 
 
 BOM:
